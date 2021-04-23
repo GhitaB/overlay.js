@@ -4,3 +4,5 @@ Info:
 Original source: https://github.com/mintchaos/flippant.js
 
 Changes: no animations
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/ghitab/find-me-on-cm-b.svg)](https://www.codementor.io/@ghitab?refer=badge)
